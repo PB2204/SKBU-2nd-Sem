@@ -1,0 +1,49 @@
+# SKBU 2nd Semester Python Package
+
+## Overview
+
+This Python package provides implementations of various data structures and algorithms as per the syllabus of the 2nd semester of Sidho Kanho Birsha University (SKBU). It covers topics such as arrays, linked lists, stacks, queues, recursion, trees, graphs, searching, sorting, and hashing.
+
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install skbu-2nd-sem
+```
+
+## Usage
+
+To use the package, simply import the desired modules:
+
+```python
+from skbu_2nd_sem import arrays, linked_lists, stacks, queues, recursion, trees_and_graphs, searching, sorting, hashing
+```
+
+Then, you can access the various data structures and algorithms provided by the package.
+
+## Documentation
+
+For detailed documentation, please refer to the [documentation](https://github.com/PB2204/SKBU-2nd-Sem/tree/main/docs) directory.
+
+## Examples
+
+For usage examples, please refer to the [examples](https://github.com/PB2204/SKBU-2nd-Sem/tree/main/examples) directory.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests on [GitHub](https://github.com/PB2204/SKBU-2nd-Sem).
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Pabitra Banerjee**
+- **Email:** pabitra.banerjee@explorecode.live
+- **LinkedIn:** [Pabitra Banerjee](https://www.linkedin.com/in/pabitra-banerjee)
+- **Twitter:** [@FossilianBhed](https://twitter.com/FossilianBhed)
+- **Website:** [Code Explorer](https://explorecode.live/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/PB2204/SKBU-2nd-Sem/blob/main/LICENSE) file for details.
